@@ -75,7 +75,7 @@ function initial() {
 
 var corsOptions = {
   credentials: true,
-  origin: ["http://localhost:8081"]
+  origin: ["https://master--comp229.netlify.app"]
 
 };  
 
