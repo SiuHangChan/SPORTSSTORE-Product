@@ -75,7 +75,7 @@ function initial() {
 
 var corsOptions = {
   credentials: true,
-  origin: ["https://master--comp229.netlify.app"]
+  origin: ["https://comp229.netlify.app"]
 
 };  
 
